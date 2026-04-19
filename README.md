@@ -4,7 +4,7 @@
 
 ## 🔗 演示地址
 
-在线体验：[https://bazi.qqzeng-ip.com/](https://bazi.qqzeng-ip.com/)
+在线体验：[https://bazi.qqzeng-ip.com/](https://bazi.qqzeng-ip.com/bazi/paipan)
 
 ## ✨ 主要功能
 
