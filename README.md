@@ -2,9 +2,7 @@
 
 这是一个专业、高精度的八字排盘与命理分析工具，集成了万年历、真太阳时计算、五行能量分析以及 AI 辅助解读功能 以及人生K线生成。
 
-## 🔗 演示地址
 
-在线体验：[https://bazi.qqzeng-ip.com/](https://bazi.qqzeng-ip.com/bazi/paipan)
 
 ## ✨ 主要功能
 
